@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Created By Spark.
+<#if licenseLast??>
+${licenseLast}
+</#if>
